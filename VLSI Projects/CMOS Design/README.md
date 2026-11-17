@@ -1,1 +1,2 @@
-Schematics, symbols, layouts, DRC and LVS verification.
+Schematics, symbols, transient-dc analysis
+Layouts, DRC and LVS verification.
