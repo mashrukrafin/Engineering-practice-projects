@@ -1,15 +1,17 @@
-# CMOS NOR Gate
+
+# CMOS XOR Gate
 
 ## Schematic
-![CMOS NOR Gate Schematic](Schematic/Screenshot%202026-11-15%20125715.png)
+![CMOS XOR Gate Schematic](Schematic/Screenshot%2026-11-15%20131127.png)
 
 ## Symbol
-![CMOS NOR Gate Symbol](Schem-symbol/Screenshot%202026-11-15%20125727.png)
+![CMOS XOR Gate Symbol](Schem-symbol/Screenshot%2026-11-15%20131038.png)
 
-![CMOS NOR Gate Symbol](Schem-symbol/Screenshot%202026-11-15%20125653.png)
+![CMOS XOR Gate Symbol](Schem-symbol/Screenshot%2026-11-15%20131142.png)
 
 ## DC and Transient Analysis
-![DC and Transient Analysis](DC-trans%20analysis/Screenshot%202026-11-15%20125543.png)
+![DC and Transient Analysis](DC-trans%20analysis/Screenshot%2026-11-15%20131017.png)
+
 
 
 ## Layout
