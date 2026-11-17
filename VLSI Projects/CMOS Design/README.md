@@ -1,1 +1,5 @@
-*Schematics, symbols, transient-dc analysis*Layouts, DRC and LVS verification
+### CMOS Design
+- Schematics and symbol design
+- Transient and DC analysis
+- CMOS layouts
+- DRC and LVS verification
